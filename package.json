@@ -1,6 +1,7 @@
 {
   "name": "gradiohelper",
   "displayName": "GradioHelper",
+  "publisher": "Dilreet Raju",
   "description": "This extension helps Gradio users choose which templates they would like to begin with. ",
   "version": "0.0.1",
   "engines": {
