@@ -1,15 +1,18 @@
 {
   "name": "gradiohelper",
   "displayName": "GradioHelper",
-  "publisher": "Dilreet Raju",
+  "publisher": "DilreetRaju",
   "description": "This extension helps Gradio users choose which templates they would like to begin with. ",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.98.0"
   },
   "categories": [
-    "Other"
+    "Programming Languages",
+    "Gradio",
+    "Templates"
   ],
+  "icon": "icon.png",
   "activationEvents": [],
   "main": "./out/extension.js",
   "contributes": {
